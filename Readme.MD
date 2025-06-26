@@ -7,7 +7,7 @@ This is my very first Unity project — a Flappy Bird Game made to get hands-on 
 ## 🎮 Features
 
 - Menu-driven UI: **Start**, **Pause**, **Home**
-- Smooth **fly** animation and a simple **death** animation
+- Crazy **fly** animation and a simple **death** animation
 - Custom **sound effects**: BGM, death, and scoring
 - Personalized **start screen**
 - **High score tracking** (with reset option)
