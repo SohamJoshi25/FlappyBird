@@ -1,0 +1,34 @@
+{
+    "name": "Birdcontrol",
+    "maps": [
+        {
+            "name": "Bird",
+            "id": "a609e5cb-9dc1-4eb7-b372-99563a631b9d",
+            "actions": [
+                {
+                    "name": "Fly",
+                    "type": "Button",
+                    "id": "bd612da9-c6bf-484a-a8d2-79fd3cb894ed",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d85d4553-ad8e-4e8b-9dc6-0d58d4db7e37",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fly",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

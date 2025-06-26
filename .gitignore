@@ -1,0 +1,33 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+CrashReports/
+
+# Build folders (seen in your screenshot)
+D3D12/
+Flappy Bird_Data/
+MonoBleedingEdge/
+
+# IDE & editor-specific
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Unity Collab & PlasticSCM
+.plastic/
+*.pidb
+*.booproj
+*.unitypackage
+sysinfo.txt
