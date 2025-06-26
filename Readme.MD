@@ -1,4 +1,4 @@
-# 🐤 Flappy Bird — My First Unity Game
+# 🐤 Flappy Bird (Mini Pro Max)
 
 This is my very first Unity project — a Flappy Bird Game made to get hands-on experience with Unity's basics like physics, animations, and UI systems.
 
@@ -15,24 +15,29 @@ This is my very first Unity project — a Flappy Bird Game made to get hands-on 
 
 ---
 
+## 🕹️ How to Play (Come on, i don't need to tell you this.)
+
+- Use the **Spacebar** to flap and keep the bird airborne
+- Avoid pipes and survive as long as possible
+- You can pause, resume, and reset from the in-game menu
+
+---
+
 ## 🧩 Some Screenshots
 
 ### 🎨 Unity Editor Preview
-_*(Insert two images here)*_
 
-![Unity Editor View 1](assets/editor_1.png)  
-![Unity Editor View 2](assets/editor_2.png)
+![Unity Editor View 1](Assets/public/editor1.png)  
+![Unity Editor View 2](Assets/public/editor2.png)
 
 ---
 
 ### 🕹️ In-Game Screenshots
 
-_*(Insert 3-4 actual gameplay screenshots here)*_
 
-![Gameplay Start Screen](assets/startscreen.png)  
-![Gameplay Mid-Flight](assets/gameplay1.png)  
-![Death Screen](assets/deathscreen.png)  
-![Pause Menu](assets/pausemenu.png)
+![Gameplay Start Screen](Assets/public/game%20(1).png)  
+![Pause Menu](Assets/public/game%20(2).png)  
+![Death Screen](Assets/public/game%20(3).png)  
 
 ---
 
@@ -55,7 +60,7 @@ Most assets were from:
 - Free images/sounds from **Pixabay**
 - A few random visual tweaks made by me
 
-I don’t claim ownership of any art/audio in this game. It’s just for learning.
+Ofc. I dont own it bro.
 
 ---
 
@@ -64,5 +69,4 @@ I don’t claim ownership of any art/audio in this game. It’s just for learnin
 Not a polished game — just a fun way to explore Unity and understand how game logic, animation, and UI tie together.  
 Hope this helps others getting started too.
 
-— Soham
 
