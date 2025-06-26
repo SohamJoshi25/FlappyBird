@@ -1,4 +1,4 @@
-# 🐤 Flappy Bird (Mini Pro Max)
+# 🐤 Flappy Bird (Yes, it's a bird not a fish)
 
 This is my very first Unity project — a Flappy Bird Game made to get hands-on experience with Unity's basics like physics, animations, and UI systems.
 
